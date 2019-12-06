@@ -1,0 +1,16 @@
+C:\Users\sovsh\Desktop\Testing Application\MediatR2.2WebApplication1\obj\Debug\netcoreapp2.2\MediatR-Automapper--Testing.csprojAssemblyReference.cache
+C:\Users\sovsh\Desktop\Testing Application\MediatR2.2WebApplication1\obj\Debug\netcoreapp2.2\MediatR-Automapper--Testing.RazorAssemblyInfo.cache
+C:\Users\sovsh\Desktop\Testing Application\MediatR2.2WebApplication1\obj\Debug\netcoreapp2.2\MediatR-Automapper--Testing.RazorAssemblyInfo.cs
+C:\Users\sovsh\Desktop\Testing Application\MediatR2.2WebApplication1\obj\Debug\netcoreapp2.2\MediatR-Automapper--Testing.AssemblyInfoInputs.cache
+C:\Users\sovsh\Desktop\Testing Application\MediatR2.2WebApplication1\obj\Debug\netcoreapp2.2\MediatR-Automapper--Testing.AssemblyInfo.cs
+C:\Users\sovsh\Desktop\Testing Application\MediatR2.2WebApplication1\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\sovsh\Desktop\Testing Application\MediatR2.2WebApplication1\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\sovsh\Desktop\Testing Application\MediatR2.2WebApplication1\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\sovsh\Desktop\Testing Application\MediatR2.2WebApplication1\bin\Debug\netcoreapp2.2\MediatR-Automapper--Testing.deps.json
+C:\Users\sovsh\Desktop\Testing Application\MediatR2.2WebApplication1\bin\Debug\netcoreapp2.2\MediatR-Automapper--Testing.runtimeconfig.json
+C:\Users\sovsh\Desktop\Testing Application\MediatR2.2WebApplication1\bin\Debug\netcoreapp2.2\MediatR-Automapper--Testing.runtimeconfig.dev.json
+C:\Users\sovsh\Desktop\Testing Application\MediatR2.2WebApplication1\bin\Debug\netcoreapp2.2\MediatR-Automapper--Testing.dll
+C:\Users\sovsh\Desktop\Testing Application\MediatR2.2WebApplication1\bin\Debug\netcoreapp2.2\MediatR-Automapper--Testing.pdb
+C:\Users\sovsh\Desktop\Testing Application\MediatR2.2WebApplication1\obj\Debug\netcoreapp2.2\MediatR-Automapper--Testing.RazorTargetAssemblyInfo.cache
+C:\Users\sovsh\Desktop\Testing Application\MediatR2.2WebApplication1\obj\Debug\netcoreapp2.2\MediatR-Automapper--Testing.dll
+C:\Users\sovsh\Desktop\Testing Application\MediatR2.2WebApplication1\obj\Debug\netcoreapp2.2\MediatR-Automapper--Testing.pdb
